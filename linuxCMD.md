@@ -1,36 +1,4 @@
----
-title: 常见的Linux命令
-cover: https://img.luopojunzi.com/file/72a5dbc4d03daa90b43c8.jpg
-swiper_index: 10
-top_group_index: 10
-background: '#fff'
-date: 2024-08-22 11:05:26
-updated:
-tags:
-    - Linux命令 #【可选】文章标签
-categories: Linux命令
-keywords:
-    - Linux命令 #【可选】文章标签
-description: 常见的Linux命令
-top:
-top_img: https://img.luopojunzi.com/file/72a5dbc4d03daa90b43c8.jpg
-comments:
-toc:
-toc_number:
-toc_style_simple:
-copyright:
-copyright_author:
-copyright_author_href:
-copyright_url:
-copyright_info:
-mathjax:
-katex:
-aplayer:
-highlight_shrink:
-aside:
-ai:
----
-
+# 博客[原文](https://blog.luopojunzi.com/p/linuxCMD/)
 
 # 常见的Linux命令
 
